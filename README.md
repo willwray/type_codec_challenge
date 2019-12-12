@@ -439,7 +439,7 @@ Contribute in any way you want or can:
 * Discuss or critique the problem itself - be respectful
 * Discuss approaches and techniques for solving the challenges
 * Add links to resources, libraries, related reading, prior art
-* Submit code - to [GitHub repo](https://github.com/willwray/modcpp-type-codec-challenge) or as online-compiler links
+* Submit code - to [GitHub repo](https://github.com/willwray/type_codec_challenge) or as online-compiler links
 * Provide test cases - lists of types - try to break posted codes
 * Benchmark compile-times of posted codes
 
