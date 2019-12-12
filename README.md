@@ -446,7 +446,8 @@ Contribute in any way you want or can:
 Channels:
 
  * slack cpplang: [#type_codec_challenge](https://cpplang.slack.com/messages/type_codec_challenge/) channel
- * reddit /r/cpp (thread to be posted)
+ * reddit /r/cpp [The Modern C++ type CoDec Challenge
+](https://www.reddit.com/r/cpp/comments/e9t0y0/the_modern_c_type_codec_challenge/)
  * other channels will be listed here
 
 I will write up the challenge experiences and credit any novel ideas, with permission.
