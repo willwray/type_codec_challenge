@@ -1,5 +1,5 @@
 # <div align="center">The Great<br><code>2020</code><br>Scott Meyers Outtake<sup>*</sup><br>[Modern C++ type CoDec Challenge](#the-modern-c-type-codec-challenge)</div>
-<p align="center">(click title ^^^ to go direct)<br><b>A meta-programming challenge in compound type destructuring</b><br><br>Find the most effective, modern way to:&nbsp;&nbsp;&nbsp;<br>(0) <b>Decompose a compound type</b> then&nbsp;&nbsp;&nbsp;<br>(1) <b> Represent its structure and traverse it</b><br><br><b><code>now()<2020</code></b>: Using Modern C++ up to c++20 with compiler extensions included<br><b><code>now()>2020</code></b>: Using Post Modern C++ with Scalable Reflection or other reflection</p>
+<p align="center">(click title ^^^ to go direct)<br><b>A meta-programming challenge in compound type destructuring</b><br>(assumes intermediate to advanced level C++ with some meta skills)<br><br>Find the most effective, modern way to:&nbsp;&nbsp;&nbsp;<br>(0) <b>Decompose a compound type</b> then&nbsp;&nbsp;&nbsp;<br>(1) <b> Represent its structure and traverse it</b><br><br><b><code>now()<2020</code></b>: Using Modern C++ up to c++20 with compiler extensions included<br><b><code>now()>2020</code></b>: Using Post Modern C++ with Scalable Reflection or other reflection</p>
 
 #### (The slow-boiled-egg or shaggy-chicken version)...
 
