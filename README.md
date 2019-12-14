@@ -459,10 +459,10 @@ As 2020 approaches, C++20 features are coming in GCC, Clang and MSVC compilers.
 Use `-std=c++2a` or `/std:c++latest` language support flag for the challenge.  
 Use the latest compiler versions. Compiler extensions are fair game.
 
-Here's a retrospective Classic to Modern to Post Modern progression:
+Classic to Modern to Post Modern progression:
 
+* TMP no traits
 * TMP with traits
-* TMP without traits
 * constexpr with traits
 * constexpr with reflection operators
 
