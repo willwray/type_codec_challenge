@@ -392,7 +392,7 @@ using Q = bool()noexcept;
 using T = Q*[][4]; // T = bool(*[][4])()noexcept
 
 0 rep<T> -> Array<Pointer<Function<NoExcept,Funda<bool>>,0,4>
-1 serialize<rep<T>> -> "[][4]*g()_b"
+1 serialize<rep<T>> -> "[][4]*()F_b"
 ```
 
 #### User-defined types
