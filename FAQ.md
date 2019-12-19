@@ -9,7 +9,7 @@ In concept, it’s not difficult; lack of constraints on what to do makes it so.
 As a 40-day Challenge it's a slow-burner. Week 1 saw 1st code and solution.  
 I'll post weekly updates with code and links to help give this Q some As.
 
-The TL/DR at the top is fairly clear:
+The TL/DR at the top is a terse statement:
 
 >Find the most effective, modern way to:   
 (0) Decompose a compound type then   
