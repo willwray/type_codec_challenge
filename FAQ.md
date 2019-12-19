@@ -36,11 +36,21 @@ The structure is a tree; tree traversal is the computer-science term for it.
 
 ## why is the "rep" even needed in your challenge?
 
-This is a Jedi level Q; from "Wot?" to "Why?" (or, "wot for?").  
-There is much to be said here, more to discover.
+This is a Jedi level Q; from "Wot?" to "Why?" (or, "wot for?").
 
-The idea is to decouple type decomposition from subsequent use.  
+1. The idea is to decouple type decomposition from subsequent use.  
 For the Challenge, this helps highlight the decomposition method.
 
-Single responsibility principle; decompounding a type is work,  
-a rep that is more efficient, or easier to traverse, saves work.
+2. Single responsibility principle. Mixing the method of decomposition   
+with usage constrains both to follow the same traversal order.
+
+3. Decompounding a type is work; a rep that is more efficient, or easier  
+to traverse, can save work if used multiple times, e.g. if:
+```
+DecompoundType2Rep + 2x(TraverseRep & Use) < 2x(DecompoundType & Use)
+```
+
+4. This is a 'Retroflective': imagine the possibilities a rep can open.  
+Bjarne & Gaby had a vision for IPR; rep is a subset of that.
+
+5. Them's the rules! (As revealed to me in a series of waking dreams.)
