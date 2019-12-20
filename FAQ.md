@@ -2,18 +2,32 @@
 
 ## I have no idea what that challenge is asking for.
 
-"Wot?" is by far the most frequent Q (all 3 reddit posts, more on slack).  
-It is asked by beginners and by guru meta-programmer 'language lawyers'.  
-It's not a riddle; it's intended to be intriguing, not incomprehensible.  
-In concept, it’s not difficult; lack of constraints on what to do makes it so.  
-As a 40-day Challenge it's a slow-burner. Week 1 saw 1st code and solution.  
-I'll post weekly updates with code and links to help give this Q some As.
-
-The TL/DR at the top is a terse statement:
+"Wot?" is the most frequent Q, asked by beginners and by meta-gurus.  
+The TL/DR gives a terse statement (expanded in the full statement):
 
 >Find the most effective, modern way to:   
 (0) Decompose a compound type then   
 (1) Represent its structure and traverse it
+
+The first step is to gain a good understanding of the [compound types](https://stackoverflow.com/a/52251200/7443483).
+
+Challenge 0 is to find ways to remove all layers of compounding from an  
+arbitrary type and to evaluate which is the most effective, modern method.
+
+Starter 'shell' code has been posted. You implement a 'decompound' method  
+to pass some tests. First solutions have been posted. Regular updates will  
+be posted in the GitHub wiki. If you have more Q's then ask in any channel.  
+Challenge 0 is good way to learn more about types and meta-programming.  
+It is not difficult, in concept. It is hard to take to completion.  
+The classic TMP solutions are well known and published since circa 2000.  
+It is an open problem to find the most effective, modern method.
+
+Challenge 1 is to seek a way to represent the compound structure of a type  
+that is better - more efficient and/or easier to use - than the type itself.
+
+If you're at "Wot?" then skip this; use some simple rep to serve Challenge 0.  
+The lack of constraints on what to do here makes Challenge 1 more difficult.  
+It is open ended, a chin-strokin' slow-burner. Light a pipe. Retroflect.
 
 ## In the context of this challenge, what is a compound type,<br>and what do you mean by "traverse it"?
 
